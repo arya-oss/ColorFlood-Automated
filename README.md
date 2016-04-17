@@ -4,9 +4,10 @@
 
 The objective of this game is to flood fill the entire board with one color. This objective has to be
 completed within 22 steps for 12x12 board.
+**Playstore Link:** [Color Flood](https://play.google.com/store/apps/details?id=com.wetpalm.colorflood&hl=en)
 
-**Playstore Link:** [Stick Hero](https://play.google.com/store/apps/details?id=com.wetpalm.colorflood&hl=en)
- 
+![Color Flood](/Images/play_flood.png)
+
 **Difficulty Level:** Moderate
 
 ### Overview
@@ -21,7 +22,7 @@ The cell are detected using image processing. The solution of game is calculated
 
 ### Block Diagram
 
-![BlockDiagram](/Images/methods-3.png)
+![BlockDiagram](/Images/BlockDiagram.png)
 
 ### Tutorial
 
